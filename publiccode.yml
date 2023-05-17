@@ -1,0 +1,67 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - application-development
+  - it-asset-management
+  - it-development
+dependsOn:
+  open:
+    - name: common-gateway
+      optional: false
+      version: ''
+      versionMax: ''
+      versionMin: 1.0.0
+description:
+  en:
+    documentation: 'https://github.com/OpenCatalogi/api/blob/master/OAS.yaml'
+    features:
+      - search-engine
+    genericName: 010TestComp
+    localisedName: 010TestComp
+    longDescription: |
+      test component voor publiccode.yaml om te testen of OpenCatalogi de
+      publiccode oppikttest component voor publiccode.yaml om te testen of
+      OpenCatalogi de publiccode oppikttest component voor publiccode.yaml om te
+      testen of OpenCatalogi de publiccode oppikttest component voor
+      publiccode.yaml om te testen of OpenCatalogi de publiccode oppikttest
+      component voor publiccode.yaml om te testen of OpenCatalogi de publiccode
+      oppikttest component voor publiccode.yaml om te testen of OpenCatalogi de
+      publiccode oppikttest component voor publiccode.yaml om te testen of
+      OpenCatalogi de publiccode oppikttest component voor publiccode.yaml om te
+      testen of OpenCatalogi de publiccode oppikttest component voor
+      publiccode.yaml om te testen of OpenCatalogi de publiccode oppikttest
+      component voor publiccode.yaml om te testen of OpenCatalogi de publiccode
+      oppikt
+developmentStatus: stable
+inputTypes:
+  - application/json
+  - application/ld+json
+  - application/hal+json
+legal:
+  license: EUPL-1.1
+  mainCopyrightOwner: City of Rotterdam
+  repoOwner: City of Rotterdam
+localisation:
+  availableLanguages:
+    - nl
+  localisationReady: false
+maintenance:
+  contacts:
+    - email: r.vancortenberghe@rotterdam.nl
+      name: R. van Cortenberghe
+  type: internal
+name: 010 Test Component
+platforms:
+  - web
+releaseDate: '2022-10-31'
+softwareType: standalone/web
+url: 'https://github.com/RonaldvCortenberghe/testComp_RvC'
+nl:
+ gemma:
+   bedrijfsfuncties:
+      - Informatiseringsmanagement
+usedBy:
+  - Gemeente Rotterdam
