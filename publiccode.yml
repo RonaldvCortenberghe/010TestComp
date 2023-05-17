@@ -15,13 +15,13 @@ dependsOn:
       versionMax: ''
       versionMin: 1.0.0
 description:
-  en:
+  nl:
     documentation: 'https://github.com/OpenCatalogi/api/blob/master/OAS.yaml'
     features:
       - search-engine
     genericName: 010TestComp
     localisedName: 010TestComp
-    longDescription: |
+    longDescription: 
       test component voor publiccode.yaml om te testen of OpenCatalogi de
       publiccode oppikttest component voor publiccode.yaml om te testen of
       OpenCatalogi de publiccode oppikttest component voor publiccode.yaml om te
